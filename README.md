@@ -1,9 +1,9 @@
-#Serial Experiments Lain Website
+Serial Experiments Lain Website
 
-##Descrição
+Descrição
 Este repositório contém o código-fonte para um site inspirado na série "Serial Experiments Lain". O objetivo do site é proporcionar uma experiência única e imersiva, refletindo a atmosfera e o estilo artístico da série.
 
-##Tecnologias Utilizadas
+Tecnologias Utilizadas
 O site foi desenvolvido utilizando as seguintes tecnologias:
 
 HTML5: Estruturação do conteúdo.
